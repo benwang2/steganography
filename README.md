@@ -1,2 +1,3 @@
-# steganography
-This is a program that encodes ASCII messages into images. There is three pixels used for each ASCII character. ASCII characteres are converted to binary and then the 3 pixels are modified to represent the binary value of the ASCII character. Even color values represent 0 in a binary string and odd color values represent 1 in a binary string. The BLUE value of the third pixel of each group will either indicate whether the program should continue or terminate.
+# STEGOSAURUS
+
+A program with a basic GUI that uses Steganography to encrypt data and decrypt data within an image.
